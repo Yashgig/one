@@ -43,8 +43,8 @@
 <body>
     <div class="container">
         <header>
-            <h1>Your Name</h1>
-            <p>Email: your.email@example.com | Phone: (123) 456-7890 | LinkedIn: linkedin.com/in/yourprofile</p>
+            <h1>Urlana Yaswanth</h1>
+            <p>Email: gmail@example.com | Phone: (123) 456-7890 | LinkedIn: linkedin.com/in/yourprofile</p>
         </header>
 
         <div class="section">
