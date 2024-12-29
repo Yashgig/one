@@ -59,7 +59,7 @@
     <div class="container">
         <header>
             <img src="profile-pic.jpg" alt="Your Profile Picture">
-            <h1>Yaswanth Urlana</h1>
+            <h1>Deepika Urlana</h1>
             <p>Email: your.email@example.com | Phone: (123) 456-7890 | LinkedIn: linkedin.com/in/yourprofile | Portfolio: yourportfolio.com</p>
         </header>
 
