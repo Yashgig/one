@@ -43,7 +43,7 @@
 <body>
     <div class="container">
         <header>
-            <h1>Urlana Yaswanth</h1>
+            <h1>Pushpa Raj</h1>
             <p>Email: gmail@example.com | Phone: (123) 456-7890 | LinkedIn: linkedin.com/in/yourprofile</p>
         </header>
 
