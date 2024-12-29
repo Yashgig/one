@@ -43,7 +43,7 @@
 <body>
     <div class="container">
         <header>
-            <h1>Rocky Bhai</h1>
+            <h1>yash</h1>
             <p>Email: gmail@example.com | Phone: (123) 456-7890 | LinkedIn: linkedin.com/in/yourprofile</p>
         </header>
 
